@@ -1,4 +1,4 @@
-
+<img src="https://github.com/codewith-rafi/C-Journey/blob/main/assets/C.png" alt="cover" width="15%">
 
 # Documenting my C journey
 
@@ -6,4 +6,4 @@ Welcome to my C Learning Journey repository! This repository is dedicated to doc
 
 # What I have done so far -
 
-- I made a calculator 
+- I made a simple calculator <a href="https://github.com/codewith-rafi/C-Journey/blob/main/calculator.c">here</a>
